@@ -1,0 +1,44 @@
+.label {
+    height: 86px;
+    width: 245px;
+  }
+  
+  .label .text-wrapper {
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(
+      180deg,
+      rgb(249.69, 147.32, 124.84) 0%,
+      rgb(137.88, 224.33, 243.31) 45.31%,
+      rgb(211.82, 255, 120.06) 93.75%
+    );
+    background-clip: text;
+    color: transparent;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 57px;
+    font-weight: 800;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 85.5px;
+    position: fixed;
+    top: 0;
+    white-space: nowrap;
+  }
+  .label {
+    height: 86px;
+    width: 287px;
+  }
+  
+  .label .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 57px;
+    font-weight: 800;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 85.5px;
+    position: fixed;
+    top: 0;
+    white-space: nowrap;
+  }
+    
